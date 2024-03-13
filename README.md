@@ -3,7 +3,7 @@
 open Linux terminal and write these lines of codes
 
 ```
-python3 -m venv testenv
+**python3 -m venv testenv**
 # It create a folder testenv and create vertual environment.
 source /home/datajap/testenv/bin/activate
 # activate the virtual environment
